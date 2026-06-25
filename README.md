@@ -1,19 +1,19 @@
 # MathematicsEquityUsingPISA2022
 
-his repository contains the analysis code and outputs for the manuscript “Mathematics Equity in Türkiye and Greece Using PISA 2022.” The study examines mathematics performance and educational equity in Türkiye and Greece using OECD PISA 2022 student-level and school-level data.
+This repository contains the analysis code and outputs for the manuscript “Mathematics Equity in Türkiye and Greece Using PISA 2022.” The study examines mathematics performance and educational equity in Türkiye and Greece using OECD PISA 2022 student-level and school-level data.
 
 The repository is intended to support transparency and reproducibility by providing the scripts and outputs used for the three main research questions of the study:
 
-RQ1: To what extent do Türkiye and Greece differ in their estimated mean mathematics performance in PISA 2022?
-RQ2: How does student socioeconomic background relate to mathematics performance in Türkiye and Greece?
-RQ3: To what extent are school-level socioeconomic disadvantage and migration-related composition associated with mathematics performance in Türkiye and Greece?
+**RQ1: **To what extent do Türkiye and Greece differ in their estimated mean mathematics performance in PISA 2022?
+**RQ2: **How does student socioeconomic background relate to mathematics performance in Türkiye and Greece?
+**RQ3: **To what extent are school-level socioeconomic disadvantage and migration-related composition associated with mathematics performance in Türkiye and Greece?
 Data source
 
 The analyses use publicly available and anonymized data from the OECD PISA 2022 Database. The raw PISA 2022 data are not included in this repository. Researchers who wish to reproduce the analyses should download the relevant student-level and school-level PISA 2022 data files directly from the OECD:
 
 https://www.oecd.org/en/data/datasets/pisa-2022-database.html
 
-Repository contents
+**Repository contents**
 
 This repository includes:
 
